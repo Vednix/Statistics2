@@ -7,6 +7,7 @@ Updated version of [Statistics](https://github.com/CAWCAWCAW/Statistics) by CAWC
 - got rid of most command fail/error instances
 - made it easier to check own time
 - changed some player feedback msg here and there
+- updated to API 2.1
 
 ## Features
 - track play time of all registered players (weeks, days, hours, minutes, seconds)
