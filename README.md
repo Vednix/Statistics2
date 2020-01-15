@@ -1,7 +1,7 @@
 # Statistics2
 Statistics plugin for TShock servers (I had to name it Statistics2 cuz I forked CAWCAWCAW's version already)
 
-Updated version of [Statistics](https://github.com/CAWCAWCAW/Statistics) by CAWCAWCAW (which was an outdated fork of a plugin originally made by WhiteX/[QuiCM](https://github.com/QuiCM).
+Updated version of [Statistics](https://github.com/CAWCAWCAW/Statistics) by CAWCAWCAW (which was an outdated fork of a plugin originally made by WhiteX/[QuiCM](https://github.com/QuiCM)).
 
 ## Differences
 - got rid of most command fail/error instances
