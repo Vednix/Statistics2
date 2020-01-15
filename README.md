@@ -3,6 +3,11 @@ Statistics plugin for TShock servers (I had to name it Statistics2 cuz I forked 
 
 Updated version of [Statistics](https://github.com/CAWCAWCAW/Statistics) by CAWCAWCAW (which was an outdated fork of a plugin originally made by WhiteX/[QuiCM](https://github.com/QuiCM).
 
+## Differences
+- got rid of most command fail/error instances
+- made it easier to check own time
+- changed some player feedback msg here and there
+
 ## Features
 - track play time of all registered players (weeks, days, hours, minutes, seconds)
 - AFK players will not gain play time 
